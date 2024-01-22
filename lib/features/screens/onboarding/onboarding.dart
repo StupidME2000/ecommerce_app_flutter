@@ -2,16 +2,11 @@ import 'package:ecommerce_app/features/screens/onboarding/widgets/onboarding_nav
 import 'package:ecommerce_app/features/screens/onboarding/widgets/onboarding_next_button.dart';
 import 'package:ecommerce_app/features/screens/onboarding/widgets/onboarding_page.dart';
 import 'package:ecommerce_app/features/screens/onboarding/widgets/onboarding_skip.dart';
-import 'package:ecommerce_app/utils/constants/sizes.dart';
-import 'package:ecommerce_app/utils/device/device_utility.dart';
-import 'package:ecommerce_app/utils/helpers/helper_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_instance/get_instance.dart';
-import 'package:iconsax/iconsax.dart';
-import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
-import '../../../utils/constants/colors.dart';
+
 import '../../../utils/constants/image_strings.dart';
 import '../../../utils/constants/text_strings.dart';
 import '../../controllers.onboarding/onboarding.controller.dart';
